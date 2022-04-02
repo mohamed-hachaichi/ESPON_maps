@@ -1,0 +1,16 @@
+<PAMDataset>
+  <SRS>PROJCS["ETRS_1989_LAEA",GEOGCS["GCS_ETRS_1989",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["GRS_1980",6378137.0,298.257222101,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0.0,AUTHORITY["EPSG","8901"]],UNIT["Degree",0.0174532925199433,AUTHORITY["EPSG","9102"]],AUTHORITY["EPSG","4258"]],PROJECTION["Lambert_Azimuthal_Equal_Area",AUTHORITY["Esri","43033"]],PARAMETER["False_Easting",4321000.0,AUTHORITY["Esri","100001"]],PARAMETER["False_Northing",3210000.0,AUTHORITY["Esri","100002"]],PARAMETER["longitude_of_center",10.0,AUTHORITY["Esri","100010"]],PARAMETER["latitude_of_center",52.0,AUTHORITY["Esri","100021"]],UNIT["Meter",1.0,AUTHORITY["EPSG","9001"]],AUTHORITY["EPSG","3035"]]</SRS>
+  <PAMRasterBand band="1">
+    <Description>09-05</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>12.45485019683838</HistMin>
+        <HistMax>478.9922180175781</HistMax>
+        <BucketCount>256</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>8|5|10|8|9|8|9|8|7|18|5|15|6|9|11|7|11|6|6|4|12|9|6|10|10|17|14|17|14|20|21|19|13|16|72|54|28|25|26|27|34|33|30|36|47|56|51|67|96|93|59|56|47|47|35|43|43|34|38|47|49|43|60|38|58|52|56|70|60|57|55|54|56|75|69|63|58|94|85|80|89|93|78|64|74|55|64|62|55|52|47|46|27|42|43|26|26|25|40|19|26|32|28|20|28|24|34|16|35|30|35|33|27|32|27|21|22|21|26|25|26|24|15|28|11|22|19|10|21|15|13|17|15|21|10|5|12|14|14|12|10|15|20|14|5|11|13|12|8|15|14|7|11|5|12|10|5|9|6|6|9|6|4|10|8|4|3|2|9|4|7|11|6|12|2|6|5|4|3|5|2|4|2|6|3|4|2|3|2|2|1|1|2|2|2|0|0|1|0|0|0|1|2|1|2|0|0|1|0|1|0|1|1|0|0|1|1|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|1|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|1|1</HistCounts>
+      </HistItem>
+    </Histograms>
+  </PAMRasterBand>
+</PAMDataset>
