@@ -106,3 +106,7 @@
 202204091000   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\boxes_one = IDW(Boxes_centroids,  'First_wave', #, 2.0, SAMPLE,
 20220411 927   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\rates_secondw = IDW(death rates centroids,  'D_second_w', #, 2.
 20220411 930   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\drate_third = IDW(death rates centroids,  'D_third_wa', #, 2.0,
+20220411 945   0     1     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\c_f_w = IDW(fatality ratio,  'C_first_wa', #, 2.0, SAMPLE, 12,
+20220411 959   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\first_rate_c = IDW(fatality ratio,  'First_rate', #, 2.0, SAMPL
+202204111004   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\second_rate_c = IDW(fatality ratio,  'Second_rat', #, 2.0, SAMP
+202204111007   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\thirst_rate_c = IDW(fatality ratio,  'Third_rate', #, 2.0, SAMP
