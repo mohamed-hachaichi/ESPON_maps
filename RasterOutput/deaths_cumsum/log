@@ -110,3 +110,9 @@
 20220411 959   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\first_rate_c = IDW(fatality ratio,  'First_rate', #, 2.0, SAMPL
 202204111004   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\second_rate_c = IDW(fatality ratio,  'Second_rat', #, 2.0, SAMP
 202204111007   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\thirst_rate_c = IDW(fatality ratio,  'Third_rate', #, 2.0, SAMP
+202205041425   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\case_3_rate = IDW(fatality ratio,  'Third_rate', #, 2.0, SAMPLE
+202205041426   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\third_rate_d = IDW(fatality ratio,  'Third_rate', #, 2.0, SAMPL
+202205041428   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\third_rate_m = IDW(fatality ratio,  'Third_rate', #, 2.0, SAMPL
+202205041445   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\case_fat = IDW(fatality ratio,  'Third_rate', #, 3.0, SAMPLE, 1
+202205041446   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\final_ra_ca = IDW(fatality ratio,  'Third_rate', #, 5.0, SAMPLE
+202205041447   0     0     0Mohamed C:\Users\Mohamed\Documents\Maps ESPON\RasterOutput\deaths_cumsum\caso = IDW(fatality ratio,  'D_first_wa', #, 5.0, SAMPLE, 12, #
